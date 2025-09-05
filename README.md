@@ -10,6 +10,7 @@ A sleek and responsive web interface to highlight innovative startups, complete 
 -  Interactive UI: Hover effects and smooth transitions for a modern feel.
 
 Note: Update image paths (/slack-logo.jpg) to reflect actual image locations or replace with your own logos.
+
 Note: In the place of startup's website links ,google.com is used as a sample website for now 
  
  How to Use:
